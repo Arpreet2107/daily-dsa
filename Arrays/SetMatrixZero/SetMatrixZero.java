@@ -54,7 +54,7 @@ public class SetMatrixZero {
     }
 
     public static void main(String[] args) {
-        SetMatrixZeroes obj = new SetMatrixZeroes();
+        SetMatrixZero obj = new SetMatrixZero();
         int[][] matrix = {
             {1, 1, 1},
             {1, 0, 1},
