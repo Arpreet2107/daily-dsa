@@ -77,7 +77,7 @@ public class InsertNode {
 
     // Main method to test node insertion
     public static void main(String[] args) {
-        InsertNodeSLL list = new InsertNodeSLL();
+        InsertNode list = new InsertNode();
 
         // Insert nodes at the beginning
         list.insertAtBeginning(10);
